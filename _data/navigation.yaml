@@ -1,0 +1,7 @@
+main:
+  - title: "About the Author"
+    url: /aboutme/
+  - title: "Contact"
+    url: /contact/
+  - title: "News"
+    url: /news/
